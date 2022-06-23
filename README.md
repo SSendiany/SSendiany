@@ -1,8 +1,7 @@
-### Hi there 👋
 <center>
-<h1>Hello Im Septianto Sendiany</h1>
+<h1 align="center">👋 Hello !!! Im Septianto Sendiany</h1>
 </center>
-<hr>
+
 
 <!--
 **SSendiany/SSendiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
