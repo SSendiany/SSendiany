@@ -19,7 +19,6 @@
 <img src="https://raw.githubusercontent.com/SSendiany/SSendiany/main/icon/git.png" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/SSendiany/SSendiany/main/icon/nodejs.png" alt="nodejs" height="40"/>
 <img src="https://raw.githubusercontent.com/SSendiany/SSendiany/d02840ec5500b0e4444ac83ab39e00cb776a0caf/icon/unity.svg" alt="unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/SSendiany/SSendiany/d02840ec5500b0e4444ac83ab39e00cb776a0caf/icon/moralis.svg" alt="moralis" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/SSendiany/SSendiany/main/icon/vscode.png" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/SSendiany/SSendiany/main/icon/webstorm.png" alt="ws" width="40" height="40"/>
 </p>
