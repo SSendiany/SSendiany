@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello !!! Im Septianto Sendiany</h1>
+<img src="https://raw.githubusercontent.com/SSendiany/SSendiany/main/SEPTIANTO SENDIANY.png" alt="vue" width="auto" height="auto"/> 
 
 <h2 align="left">My Social Media</h2>
 <p>
